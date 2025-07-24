@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋 I'm Rohit
 
-<!--
-**rohitbhatt2437/rohitbhatt2437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer who enjoys building scalable systems, real-time apps, and clean APIs. I work mainly with Node.js, Express, MongoDB, and Redis. Passionate about system design, performance optimization, and solving complex backend challenges.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** JavaScript, C++, Python, SQL
+- **Backend:** Node.js, Express.js, MongoDB, Redis
+- **Tools:** Docker, Git, Postman, Firebase
+- **Others:** REST APIs, WebSockets, JWT, Clerk, CI/CD
+
+---
+
+### 🌱 Currently Learning
+- Docker & Kubernetes  
+- Advanced System Design  
+- Redis Streams & Queues
+
+---
+
+### 📫 Contact Me
+- LinkedIn: [linkedin.com/in/rohit-bhatt-509807210](https://linkedin.com/in/rohit-bhatt-509807210)  
+- Email: rohitbhatt3241@gmail.com  
+- GitHub: [github.com/rohitbhatt2437](https://github.com/rohitbhatt2437)
+
+---
+
+Thanks for stopping by! Feel free to check out my projects and connect 🚀
